@@ -6,7 +6,7 @@
 - 🌱 I’m interested for MERN stack, Flutter, Dart,Firebase etc..
 - 👯 I’m looking to collaborate on OpenSource Projects.
 - 💬 Ask me about React, JAVA ,spring Boot,Node Js.
-- 📫 How to reach me: binushajayamal1@gmail.com
+- 📫 How to reach me: binushajayamal1@gmail.com 
 
 
 
